@@ -1,7 +1,6 @@
 [![Stars][stars-shield]][stars-url]
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
-[![Stars][stars-shield]][stars-url]
 
 ___
 
