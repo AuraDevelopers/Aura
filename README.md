@@ -4,17 +4,16 @@
 
 ___
 
-<!-- PROJECT LOGO -->
 <br />
 <p align="center">
   <a href="https://github.com/tougrel/shady">
-    <img src="https://cdn.discordapp.com/attachments/877679382280421416/877681009238364190/1e78d7f4cd76610be5124f5327a835ec.png" alt="Shady's logo!" width="126" height="126">
+    <img src="https://cdn.discordapp.com/attachments/877679382280421416/885462131577847828/Logo_Glow_White.png" alt="Shady's logo!" width="126" height="126">
   </a>
 
   <h3 align="center">Shady</h3>
 
   <p align="center">
-    A fully customizable Discord bot for your Discord server with multi-language support and a lot of features! 
+    A feature-rich bot including a fun leveling system, an amazing economy system, tools to moderate your server along with a modern dashboard, and many others! All in set with ease of use.
     <br />
     <br />
     <a href="https://discord.com/api/oauth2/authorize?client_id=520577898642407434&redirect_uri=https%3A%2F%2Fprotector.shadowct.eu&scope=applications.commands">Invite it</a>
@@ -38,5 +37,3 @@ ___
 
 [issues-shield]: https://img.shields.io/github/issues/tougrel/shady.svg?style=for-the-badge
 [issues-url]: https://img.shields.io/github/issues/tougrel/shady.svg?style=for-the-badge
-
-
