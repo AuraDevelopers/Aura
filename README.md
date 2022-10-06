@@ -2,8 +2,6 @@
 [![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 
-> We are moving soon! Shadow Protector is entering its last months of service. Join our [support server](https://discord.gg/BdVdkBK) if you have any questions 🧐!
-
 ___
 
 <br />
@@ -18,6 +16,8 @@ ___
     A feature-rich bot including a fun leveling system, an amazing economy system, tools to moderate your server along with a modern dashboard, and many others! All in set with ease of use.
     <br />
     <br />
+    <a href="https://aura.tougrel.dev">Website</a>
+    ·
     <a href="https://discord.com/api/oauth2/authorize?client_id=908188638167302194&redirect_uri=https%3A%2F%2Fprotector.shadowct.eu&scope=applications.commands">Invite it</a>
     ·
     <a href="https://github.com/tougrel/shady/issues">Report Bug</a>
